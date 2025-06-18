@@ -3,7 +3,8 @@
 Backend da **Conéctar**, plataforma de gestão de usuários com autenticação JWT.  
 Construído em **NestJS + TypeORM** e pronto para produção.
 
-**Deploy:** [https://seusite.com](https://seusite.com)
+🔗 **Deploy: Front** [https://desafio-conectar-frontend.vercel.app/](https://desafio-conectar-frontend.vercel.app/)
+🔗 **Deploy: Back** [https://desasfio-conectar-backend.onrender.com](https://desasfio-conectar-backend.onrender.com)
 
 
 ## 📄 Licença
