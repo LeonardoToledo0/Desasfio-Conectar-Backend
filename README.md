@@ -17,7 +17,7 @@ Construído em **NestJS + TypeORM** e pronto para produção.
 <p align="center">
   <img src="https://img.shields.io/badge/NestJS-^10-red?logo=nestjs&style=for-the-badge" />
   <img src="https://img.shields.io/badge/TypeScript-5.x-blue?logo=typescript&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MySQL-8.x-informational?logo=mysql&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PostgreSQL-15-informational?logo=postgresql&style=for-the-badge" />
   <img src="https://img.shields.io/badge/JWT-auth-green?logo=jsonwebtokens&style=for-the-badge" />
   <img src="https://img.shields.io/badge/tests-jest-yellow?logo=jest&style=for-the-badge" />
 </p>
