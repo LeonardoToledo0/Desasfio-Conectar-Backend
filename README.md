@@ -50,8 +50,8 @@ Construído em **NestJS + TypeORM** e pronto para produção.
 ## 📦 Instalação
 
 ```bash
-git clone https://github.com/BlockChain-Oberion/conectar.git
-cd conectar
+git clone https://github.com/LeonardoToledo0/Desasfio-Conectar-Backend.git
+cd backend-conectar
 yarn
 cp .env.example .env
 ```
